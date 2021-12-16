@@ -1,0 +1,7 @@
+.Player {
+  margin: 1em;
+  padding: 12px;
+  text-align: center;
+  border: 1px solid;
+  flex: 1 0 12%;
+}
